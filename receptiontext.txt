@@ -1,0 +1,6 @@
+Welcome to the Costa cruises reception center!
+What would you like to know about?
+1.What facilities and does each cruise provide?
+2.What Entertainment is available aboard the cruise?
+3.What Restaurants are available?
+4.What happens if I get sick onboard or is there a medical emergency?

@@ -1,0 +1,35 @@
+                           Welcome to the Library
+To borrow books from the library you will need a Reader Identification
+Card.The Reader Identification Card will include your name, your phone
+number, your room number in the cruise ship, a passport size photo
+of your own and also you will need to fill a form for the genre of
+the book you would like to read.
+You can fill this Reader Identification Card and form.
+The library includes different Genres which includes
+       1.)Fiction
+       2.)Non-fiction
+       3.)Novel
+       4.)Mystery
+       5.)Poetry
+       6.)Historical Fantasy
+       7.)Young adult fiction
+       8.)History
+       9.)Short Story
+       10.)Fantasy
+       11.)Graphic novel
+       12.)Adventure fiction
+       13.)Fairy Tale
+       14.)Children's literature
+       15.)Contemporary literature
+       16.)Crime fiction
+       17.)Comics
+       18.)New adult fiction
+       19.)Spirituality
+       20.)Philosophy
+
+
+
+
+
+
+
