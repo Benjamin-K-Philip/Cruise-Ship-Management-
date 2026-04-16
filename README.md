@@ -142,7 +142,6 @@ The project is organized into functional categories to maintain a clean director
 
 --- 
 
-<br>
 ## Output - CSV Files Genreated (i.e. Excel Files)
 <img width="1366" height="727" alt="image" src="https://github.com/user-attachments/assets/557a97d4-dc5a-4e1b-a89b-777f10717a65" />
 
