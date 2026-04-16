@@ -12,13 +12,13 @@ The application is built using modular programming principles, where functionali
 ➤ Core Architecture and Modules <br>
 The system is organized into several key components that handle different functional domains: <br>
 
-    - Booking and Reservation Modules: Modules like bookin and book handle passenger details (name, address, phone) and destination selection (e.g., Egypt, Jordan, or Madagascar).
+   - Booking and Reservation Modules: Modules like bookin and book handle passenger details (name, address, phone) and destination selection (e.g., Egypt, Jordan, or Madagascar).
 
-    - Service and Information Modules: Specific modules such as OCRiveria, Arcrink, and med provide detailed information about cruise facilities through a centralized reception system.
+   - Service and Information Modules: Specific modules such as OCRiveria, Arcrink, and med provide detailed information about cruise facilities through a centralized reception system.
 
-    - Facility Management Modules: A vast array of imported modules (e.g., nuska, bastion, fika) manage individual restaurant descriptions, time slot availability, and booking logic.
+   - Facility Management Modules: A vast array of imported modules (e.g., nuska, bastion, fika) manage individual restaurant descriptions, time slot availability, and booking logic.
 
-    - Error Handling Modules: Specialized modules like bookerrors, roomerrors, and nuskatimeerrors are used to manage invalid user inputs and provide second attempts for data entry.
+   - Error Handling Modules: Specialized modules like bookerrors, roomerrors, and nuskatimeerrors are used to manage invalid user inputs and provide second attempts for data entry.
 
 ➤ Core Logic and Flow
 
