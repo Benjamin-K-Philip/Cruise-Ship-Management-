@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5d930360-34d4-4568-b651-5aaeff3a3c0d" /># Cruise Ship Management
+# Cruise Ship Management
 
 ## Description
 Costas Cruise Ship Management is a Python-based software solution designed to enhance the operational efficiency of cruise ship hotels. It provides a unified interface for passengers to manage their entire cruise experience, from initial booking to onboard services. The project aims to simplify complex processes by allowing passengers to make reservations for rooms, restaurants, and wellness facilities effortlessly while maintaining a comprehensive record of all their plans
