@@ -163,7 +163,7 @@ The project is organized into functional categories to maintain a clean director
 ---
 
 
-## Note:<br>
+## Note<br>
 **Step-by-Step Instructions on how to run the given project:** <br>
 
 1.**Download** the zip folder named **1-Refer this-Cruise Ship Management Source Code.zip.**
