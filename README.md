@@ -37,3 +37,37 @@ The system is organized into several key components that handle different functi
    - **Custom Modules (Packages):** The project relies heavily on user-defined modules to keep the main program clean. Each feature (like a specific restaurant or error type) is isolated in its own file and brought in via import statements.
 
    - **File I/O:** The code uses Python’s built-in open() function with various modes ('r' for reading descriptions, 'a' or 'a+' for appending new bookings) to manage persistent data across sessions.
+
+---
+
+
+## Features <br>
+  - **Cruise Package Selection:** Offers three distinct cruise packages with different destinations and budget options.
+
+  - **Cabin Customization:** Passengers can choose between Regular and Premium suites, with automated room number generation.
+
+  - **Table Booking System:** An interactive feature for reserving tables at signature dining venues like Nuska Beach or Bastion, including specific time slots for breakfast, lunch, or dinner.
+
+  - **Onboard Facilities Exploration:** Detailed guides for pools, spas, fitness centers, arcades, and even specialized menus (e.g., Jain, Kosher, or Vegan meals).
+
+  - **Activity Pre-booking:** Allows users to reserve spots for onboard entertainment and sports activities.
+
+---
+
+
+## Project Structure <br>
+The project is organized into functional categories to maintain a clean directory: <br>
+
+**Main Logic:** The primary source code file containing the main execution flow and function definitions.
+
+**Information Files:** Text files (e.g., receptiontext.txt, factext.txt) that store the descriptive content shown to the user.
+
+**Data Storage:** CSV and TXT files (e.g., room_booking.csv, nuska.txt) that act as a database for passenger reservations.
+
+**Feature Modules:** Individual .py files for every facility (like OCRiveria.py) and error handling (like roombkerrors.py)
+
+---
+
+
+## Output 
+
