@@ -157,4 +157,5 @@ The project is organized into functional categories to maintain a clean director
 
 <img width="1366" height="727" alt="image" src="https://github.com/user-attachments/assets/bb4d80e2-7fb9-4909-b662-6a2c148ac67d" />
 
-<img width="1366" height="727" alt="image" src="https://github.com/user-attachments/assets/7d05e9a8-cb7b-4284-9a65-942c347c2678" />
+ <img width="1366" height="727" alt="image" src="https://github.com/user-attachments/assets/28f7e1d9-0fa7-4b81-b7f5-f0889041559a" />
+
