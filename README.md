@@ -159,3 +159,17 @@ The project is organized into functional categories to maintain a clean director
 
  <img width="1366" height="727" alt="image" src="https://github.com/user-attachments/assets/28f7e1d9-0fa7-4b81-b7f5-f0889041559a" />
 
+<br>
+---
+
+
+## Note:<br>
+**Step-by-Step Instructions on how to run the given project:** <br>
+
+1.**Download** the zip folder named **1-Refer this-Cruise Ship Management Source Code.zip.**
+
+2.**Extract** the entire folder into a single directory on your computer.
+
+3.Make sure all the **extracted files are in the same folder**.
+
+4.**Run the main file, i.e., Cruise Ship Management Source Code.py.** (Note: The code must be extracted first so Python can access all the interconnected modules and data files).
