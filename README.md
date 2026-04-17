@@ -70,7 +70,7 @@ The project is organized into functional categories to maintain a clean director
 
 
 ## Output 
-<img width="1253" height="667" alt="image" src="https://github.com/user-attachments/assets/a5392b26-eaa0-431d-af5f-f87b261b8db7" />
+<img width="1095" height="519" alt="image" src="https://github.com/user-attachments/assets/82cc7720-6548-4476-8972-78ece5653b6f" />
 
 <img width="1242" height="442" alt="image" src="https://github.com/user-attachments/assets/cec085b1-ebec-45cb-be92-1a58b546ed4d" />
 
